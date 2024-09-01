@@ -20,6 +20,9 @@ export default function RootLayout({ children }) {
               <li>
                 <Link href="/payment">Payment</Link>
               </li>
+              <li>
+                <Link href="/products">Products</Link>
+              </li>
             </ul>
           </nav>
         </header>
