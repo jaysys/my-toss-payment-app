@@ -6,6 +6,7 @@
 - .env.local에 필요한 키값 넣어주세요.
 
 ```
+npm install @tosspayments/tosspayments-sdk --save
 npm install axios
 npm install
 npm run dev
